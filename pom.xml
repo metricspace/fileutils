@@ -4,7 +4,7 @@
   <groupId>se.metricspace</groupId>
   <artifactId>fileutils</artifactId>
   <packaging>jar</packaging>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
   <name>fileutils</name>
   <url>http://metricspace.se</url>
   <dependencies>
@@ -15,9 +15,9 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-	    <groupId>org.apache.maven.plugins</groupId>
-	    <artifactId>maven-compiler-plugin</artifactId>
-	    <version>3.3</version>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-compiler-plugin</artifactId>
+      <version>3.3</version>
     </dependency>
   </dependencies>
   <build>
