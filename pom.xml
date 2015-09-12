@@ -4,7 +4,7 @@
   <groupId>se.metricspace</groupId>
   <artifactId>fileutils</artifactId>
   <packaging>jar</packaging>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1</version>
   <name>fileutils</name>
   <url>http://metricspace.se</url>
   <dependencies>
