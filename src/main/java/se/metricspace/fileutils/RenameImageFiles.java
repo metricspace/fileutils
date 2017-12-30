@@ -115,6 +115,10 @@ public class RenameImageFiles {
         suffix = "bmp";
       } else if(lowercasename.endsWith(".png")) {
         suffix = "png";
+      } else if(lowercasename.endsWith(".dng")) {
+        suffix = "dng";
+      } else if(lowercasename.endsWith(".mov")) {
+        suffix = "mov";
       }
     }
     return suffix;
