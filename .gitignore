@@ -1,1 +1,7 @@
 target
+build
+out
+.classpath
+.project
+.settings
+
